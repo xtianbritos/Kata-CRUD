@@ -147,7 +147,7 @@
         }
 
         if(e.target.matches(".delete")){
-            let isDelete = confirm(`¿Estás seguro de eliminar el id ${e.dataset.id}?`);
+            let isDelete = confirm(`¿Estás seguro de eliminar el id ${e.target.dataset.id}?`);
             if(isDelete){
                 //Delete - DELETE
                 ajax({

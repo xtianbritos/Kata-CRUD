@@ -1,9 +1,9 @@
 {
   "santos": [
     {
-      "id": 1,
       "nombre": "Seiya",
-      "constelacion": "Pegaso"
+      "constelacion": "Pegaso",
+      "id": 1
     },
     {
       "id": 2,

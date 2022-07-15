@@ -1,6 +1,6 @@
 *{
-    font-size: x-large;
-    font-family: sans-serif;
+    font-size: large;
+    font-family: fantasy;
 }
 
 body{
@@ -24,13 +24,15 @@ h1{
     text-align: center;
 }
 
+.crud-table th{
+    color: #673ab7;
+}
+
 button{
     padding: 5px 10px;
     border-radius: 10px;
     background: #2196f3;
     color: white;
+    cursor: pointer;
 }
 
-.crud-table{
-    color: #673ab7;
-}

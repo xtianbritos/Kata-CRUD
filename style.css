@@ -1,0 +1,36 @@
+*{
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(fondo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    display: table;
+    margin: auto;
+    background: #ffffff80;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: white 0 0 15px, white 0 0 15px;
+    text-shadow: 0 0 5px white, 0 0 5px white;
+}
+
+h1{
+    color: darkviolet;
+    text-align: center;
+}
+
+button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background: #2196f3;
+    color: white;
+}
+
+.crud-table{
+    color: #673ab7;
+}
